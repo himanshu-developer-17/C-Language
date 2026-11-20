@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
+void main()
 {
     float side;
     float area;
